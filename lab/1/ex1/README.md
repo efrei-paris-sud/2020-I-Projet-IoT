@@ -1,27 +1,8 @@
 
 
 # Exercise 1 
-A breif description of the goal of this exercise.
-
-## Schematic 
-![Test Image](photo.png?raw=true)
-
-## Code
- ```Arduino
-void setup(){
-  ....
-}
-
-void loop(){
-  ....
-}
-```
-  
-## Board Image
-![Board](Arduino_LED.gif?raw=true)
+We had to test our LED by connecting the orange wire to the red bus (VCC). In doing so we noticed that it is actually working.
 
 To make a gif you can use [ezgif](https://ezgif.com/maker).
 ## Issues
-- bla bla
-- bla bla
-- bla bla
+no issues
