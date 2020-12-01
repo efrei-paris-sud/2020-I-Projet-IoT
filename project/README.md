@@ -1,6 +1,6 @@
 
 # Project Title: NASpberry
-!(assets/Raspberry-pic.jpg)
+!(../assets/Raspberry-pic.jpg)
 
 **Description:**  Please don't forget to describe all parts of your project including 
  - [x] **reading from sensors** 
