@@ -8,12 +8,12 @@ We had to turn on and off and LED in port 4 and see the result. It was working a
 
 ## Code
 ``` 
-const int led = 4;
+const int led = 6;
  
 // the setup routine runs once when you press reset:
-void setup() {                
+void setup() {
   // initialize the digital pin as an output.
-  pinMode(led, OUTPUT);     
+  pinMode(led, OUTPUT);
 }
  
 // the loop routine runs over and over again forever:
