@@ -1,8 +1,8 @@
-# Team Name: Bla Bla
+# Team Name: Projet-IoT
 Members: 
-|![member1](assets/member1.webp?raw=true) |![member2](assets/member2.webp?raw=true)  |
+|![Adrien GARCIA](assets/member1.webp?raw=true) |![Julien VEAUX ](assets/member2.webp?raw=true)  |
 |--|--|
-|  [Member 1](https://github.com/username) <br> a short description of her responsiblity ...| [Member 2 ](https://github.com/username) <br> a short description of his responsiblity ... |
+|  [Adrien GARCIA](https://github.com/SlyAdrian) <br> Co-worker on the project| [Member 2 ](https://github.com/saikkoden) <br> Co-worker on the project |
 
 
 
