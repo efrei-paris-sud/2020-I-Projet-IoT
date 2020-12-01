@@ -7,6 +7,7 @@ We had to turn on and off and LED in port 4 and see the result. It was working a
 ![Test Image](photo.png?raw=true)
 
 ## Code
+``` 
 const int led = 4;
  
 void setup() {                
@@ -20,7 +21,7 @@ void loop() {
   digitalWrite(led, LOW);       // turn the LED off by making the voltage LOW
   delay(1000);                  // wait for a second
 }
-  
+``` 
 ## Board Image
 ![Cover GIF](doc/Arduino_LED.gif?raw=true)
 
