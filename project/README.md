@@ -1,6 +1,6 @@
 
 # Project Title: NASpberry
-!(https://github.com/efrei-paris-sud/2020-I-Projet-IoT/blob/main/assets/Raspberry-pic.jpg)
+![Raspberry](https://github.com/efrei-paris-sud/2020-I-Projet-IoT/blob/main/assets/Raspberry-pic.jpg)
 
 **Description:**  Please don't forget to describe all parts of your project including 
  - [x] **reading from sensors** 
