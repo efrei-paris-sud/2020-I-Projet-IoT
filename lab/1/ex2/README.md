@@ -1,7 +1,7 @@
 
 
 # Exercise 2 
-A breif description of the goal of this exercise.
+We had to turn on and off and LED in port 4 and see the result and it worked.
 
 ## Schematic 
 ![Test Image](photo.png?raw=true)
@@ -18,10 +18,8 @@ void loop(){
 ```
   
 ## Board Image
-![Board](Arduino_LED.gif?raw=true)
+![Cover GIF](doc/Arduino_LED.gif?raw=true)
 
 To make a gif you can use [ezgif](https://ezgif.com/maker).
 ## Issues
-- bla bla
-- bla bla
-- bla bla
+no issues
