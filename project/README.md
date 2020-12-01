@@ -2,12 +2,12 @@
 # Project Title: NASpberry
 ![Raspberry](https://github.com/efrei-paris-sud/2020-I-Projet-IoT/blob/main/assets/Raspberry-pic.jpg)
 
-**Description:**  Please don't forget to describe all parts of your project including 
- - [x] **reading from sensors** 
- - [x] **processing raw data**
- - [x] **Information Transmission**
- - [x] **IoT Platform**
- - [x] **Doing an action**
+**Description:**  Main parts of the project
+ - [x] **Creation of the physical NAS** 
+ - [x] **Set up of the OS**
+ - [x] **Data transmission between a PC/smartphone and the NAS**
+ - [x] **Addition of a wireless sensor**
+ - [x] **Controll the NAS with a remote controller**
 
 bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla bla
 
@@ -20,11 +20,13 @@ bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla bl
  [![Example Video of the porject](https://img.youtube.com/vi/ucZl6vQ_8Uo/0.jpg)](https://www.youtube.com/watch?v=ucZl6vQ_8Uo)
 
 # Components
-- 1 x Arduino Uno
-- 1 x BMP 280
-- 1 x Breadboard
-- 
-- 
+- 1 x Raspberry Pi (3/4)
+- 1 x 2 Hard disks
+- 1 x Keyboard
+- 1 x Screen
+- 1 x Wireless sensor
+- 1 x Remote controller
+
 # Schematic
 ![schema](doc/photo.png?raw=true)
 
