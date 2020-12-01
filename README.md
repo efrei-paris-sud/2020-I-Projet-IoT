@@ -6,8 +6,8 @@ Members:
 
 
 
-# Project Title: bla bla
- **Description**: bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+# Project Title: NASpberry
+ **Description**: The aim of the project is to create a NAS from scratch with a raspberry PI. Finally, the goal is to controll the NAS with a remote controller in order to switch it on/off. We will also assign to the other buttons some specific actions to make our NAS more versatile.
  
 [Click here for more information about the project](project) 
 
