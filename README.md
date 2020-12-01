@@ -1,6 +1,6 @@
 # Team Name: Projet-IoT
 Members: 
-|![Adrien GARCIA](assets/member1.webp?raw=true) |![Julien VEAUX ](assets/Photo%20Julien.jpg)  |
+|![Adrien GARCIA](assets/member1.webp?raw=true) |![Julien VEAUX ](assets/member2.webp?raw=true)  |
 |--|--|
 |  [Adrien GARCIA](https://github.com/SlyAdrian) <br> Co-worker on the project| [Member 2 ](https://github.com/saikkoden) <br> Co-worker on the project |
 
