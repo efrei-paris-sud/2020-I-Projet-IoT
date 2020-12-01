@@ -10,7 +10,6 @@ This Lab was an entry point to arduino kit starter and basics. We basically lear
   - [Exercise 5](ex5)
   - [Exercise 6](ex6)
   - [Exercise 7](ex7)
-  - [Exercise 8](ex8)
   
   
 ## Issues
