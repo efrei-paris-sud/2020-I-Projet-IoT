@@ -9,7 +9,7 @@
  - [x] **Addition of a wireless sensor**
  - [x] **Controll the NAS with a remote controller**
 
-bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla bla
+This whole procedure will make us able to store and retrieve data from a NAS and controll it as if it was a TV to switch it on/off and do some basic actions. We tried to make sure that all requirements (Sensors, actuators, data processing, and information transmission) are met.
 
 [Team Report](doc/report.pdf) 
 
