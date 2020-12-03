@@ -1,27 +1,12 @@
 
 
-# Exercise 2 
-A breif description of the goal of this exercise.
+# Exercise 2
+## I2C communciation
+In this question, we need to read and understand how works the I2C communication.
 
-## Schematic 
-![Test Image](photo.png?raw=true)
+This protocol proceed with two channels: SDA and SCL
+the SDA port handles all the transmission of data and the SCl is the clock line which handles the starting time of each task.
+Both SDA and SCL are the link between the master component and the slaves.
+SDA is dedicated to pin A4 on the arduino card and SCL to pin A5.
 
-## Code
- ```Arduino
-void setup(){
-  ....
-}
 
-void loop(){
-  ....
-}
-```
-  
-## Board Image
-![Board](Arduino_LED.gif?raw=true)
-
-To make a gif you can use [ezgif](https://ezgif.com/maker).
-## Issues
-- bla bla
-- bla bla
-- bla bla
