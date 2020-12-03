@@ -1,6 +1,6 @@
 
 # Lab 2
-The Lab was about .... 
+The purpose of this lab is learning the following common protocols: I2C protocol, UART protocol, Reading from BMP280 sensor
   
 ## Exercises
   - [Exercise 1](ex1)
