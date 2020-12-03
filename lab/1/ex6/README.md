@@ -1,9 +1,9 @@
 
 
-# Exercise 3
+# Exercise 6
 In this exersise we use a buzzer. The purpose is turn it on with a duration and a frequency tone of our choice.
 ## Schematic 
-![Test Image](photo.png?raw=true)
+
 
 ## Code
 ``` 

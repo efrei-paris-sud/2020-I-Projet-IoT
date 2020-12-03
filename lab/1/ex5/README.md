@@ -1,9 +1,9 @@
 
 
-# Exercise 3
+# Exercise 5
 In this exersise we will use the fading principle. Thus we want the light to shine gradually more and more.
 ## Schematic 
-![Test Image](photo.png?raw=true)
+
 
 ## Code
 ``` 

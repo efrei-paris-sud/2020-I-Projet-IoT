@@ -1,10 +1,10 @@
 
 
-# Exercise 3
+# Exercise 7
 In this exersise we play with a RGB LED. We want the LED color to change at least seven times to the colors of our choice.
 We will use the analogWrite function to control the color of the LED.
 ## Schematic 
-![Test Image](photo.png?raw=true)
+
 
 ## Code
 ``` 

@@ -1,9 +1,9 @@
 
 
-# Exercise 3
+# Exercise 4
 Using a potentiometer we want to change the blinking velocity of the LED by varying the value between 0 and 255.
 ## Schematic 
-![Test Image](photo.png?raw=true)
+
 
 ## Code
 ``` 
