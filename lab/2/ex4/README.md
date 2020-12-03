@@ -4,7 +4,6 @@
 we had to write a code to turn on/off the air conditioner when the temperature is above/below 25 degree centigrade.
 
 ## Schematic 
-![Test Image](photo.png?raw=true)
 
 ## Code
  ```#include<Wire.h>

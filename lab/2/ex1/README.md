@@ -4,7 +4,6 @@
 We had to develop an arduino program which can read a byte from serial and adjust the passive buzzer frequency with that
 
 ## Schematic 
-![Test Image](photo.png?raw=true)
 
 ## Code
  ```void setup() {
@@ -28,7 +27,5 @@ void loop() {
   
 ## Board Image
 
-
-To make a gif you can use [ezgif](https://ezgif.com/maker).
 ## Issues
 no issues.

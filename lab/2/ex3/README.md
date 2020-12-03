@@ -4,7 +4,6 @@
 we had to complete a portion of code to show temperature and humidity in the Serial Console.
 
 ## Schematic 
-![Test Image](photo.png?raw=true)
 
 ## Code
  ```#include<Wire.h> // including the Wire library
