@@ -9,6 +9,6 @@ The purpose of this lab was to learn the following common protocols: I2C protoco
   - [Exercise 4](ex4)
   
 ## Issues
-  We didn't face any particular issues...
+Same here, everything went well except we were a bit slow
   
   
