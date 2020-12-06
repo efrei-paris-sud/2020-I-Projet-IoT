@@ -6,21 +6,32 @@ we had to complete a portion of code to show temperature and humidity in the Ser
 ## Schematic 
 
 ## Code
- ```#include<Wire.h> // including the Wire library
-const int i2c_addr=0x68; // Specify the target I2C address
+ ```#include<Wire.h>
+#include <BMP280.h>   // include BMP280 sensor library
+BMP280  bmp280;  // initialize  BMP280 library
 void setup(){
-    Wire.begin();//Join the I2C bus as a master
+    Serial.begin(9600);
+    pinMode(0, OUTPUT);
+  if( bmp280.begin(BMP280_I2C_ADDRESS) == 0 )// initialize the BMP280 sensor
+  {  // connection error or device address wrong!
+  //ToDo: Show error in LCD
+  while(1);  // stay here
+  }
 }
 void loop(){
-//To send data to a slave:
-    Wire.beginTransmission(i2c_addr);//Begin a transmission to the slave
-    Wire.write("loutre");//Writing data to I2C bus
-    Wire.endTransmission();//Ends a transmission to a slave device
-//To request from a slave to send some bytes:
-    Wire.requestFrom(i2c_addr, 6);//request 6 bytes from the slave device
-    while (Wire.available()) {//slave may send less than requested
-        char c = Wire.read();//Reading data from I2C bus
-    }
+  float temp     = bmp280.readTemperature();   // get temperature
+  Serial.println(temp);
+  if (temp > 25){
+      digitalWrite(0, LOW);
+  }
+  else {
+      digitalWrite(0, HIGH);
+  }
+  float pressure = bmp280.readPressure();      // get pressure
+  float humidity = bmp280.readHumidity();      // get humidity
+  Serial.println(humidity);
+  float altitude= bmp.readAltitude(seaLevelPressure) // get Altitude. The generic seaLevelPressure is 1013.25. If you put the current pressure of your city, you can find the Altitude of your place!
+  delay(1000);  // wait a second
 }
 ```
   
