@@ -2,7 +2,7 @@
 Members: 
 |![Adrien GARCIA](assets/member1.webp?raw=true) |![Julien Veaux](assets/member2.webp?raw=true)  |
 |--|--|
-|  [Adrien GARCIA](https://github.com/SlyAdrian) <br> Co-worker on the project| [Member 2 ](https://github.com/saikkoden) <br> Co-worker on the project |
+|  [Adrien GARCIA](https://github.com/SlyAdrian) <br> Co-worker on the project| [Julien VEAUX](https://github.com/saikkoden) <br> Co-worker on the project |
 
 
 
