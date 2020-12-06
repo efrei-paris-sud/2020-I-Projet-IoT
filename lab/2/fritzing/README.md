@@ -1,7 +1,7 @@
 
 
 # Fritzing
-we had to write a code to turn on/off the air conditioner when the temperature is above/below 25 degree centigrade.
+we had to add a MPU 5060 sensor to our board.
 
 ## Schematic 
 
